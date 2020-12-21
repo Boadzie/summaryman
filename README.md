@@ -1,6 +1,8 @@
 # Summaryman
 
-![Gender Predictor](./Gender_predictor.gif)
+![Gender Predictor](./Summaryman.gif)
+
+**Summarize text with a a wordcloud using Gensim, Wordcloud, FastAPI and Tailwindcss**
 
 ## Getting started
 
