@@ -29,8 +29,10 @@
 ## Built with
 
 1. FastAPI
-2. Sklearn
-3. Tailwindcss
+2. Gensim
+3. Wordcloud
+4. Nltk
+5. Tailwindcss
 
 ## Author
 
